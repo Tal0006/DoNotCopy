@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Devsion.png</file>
+        <file>header.jpg</file>
+        <file>h.png</file>
+        <file>Lec.png</file>
+        <file>Lec2.jpg</file>
+        <file>Lec4.jpg</file>
+        <file>Students.png</file>
+    </qresource>
+</RCC>
